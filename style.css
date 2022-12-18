@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.col-md-5 {
+    margin: 150px 0 380px 0;
+    background-color: #fff;
+    padding: 20px;
+}
+input {
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+    float: left;
+}
+
+
+.success{
+    border: 3px solid green;
+}
+.error{
+    border: 3px solid red;
+}
+
+small{
+    color: red;
+    float: left;
+    font-weight: bold;
+    margin: 5px;
+}
